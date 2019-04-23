@@ -8,3 +8,7 @@ SERVIDOR BACK-END:es la parte del desarrollo web que se encarga de que toda la l
 API:Una API es un conjunto de funciones y procedimientos que cumplen una o muchas funciones con el fin de ser utilizadas por otro software. Las siglas API vienen del inglés Application Programming Interface. En español sería Interfaz de Programación de Aplicaciones.
 EJECUCION REMOTA DE XSS: Es inyectar codigo desde una fuente remota.
 RONDA PBKDF2: PBKDF2 es una “contraseña de fortalecimiento algoritmo” que hace que sea difícil para un equipo para comprobar que cualquier contraseña es la contraseña maestra correcta durante un ataque de fuerza bruta.La implementación estándar de PBKDF2 utiliza SHA-1, un algoritmo de hash seguro. SHA-1 es rápido, pero su velocidad es una debilidad en que los ataques de fuerza bruta se puede realizar más rápido.
+holassss[
+
+  Nb
+  
